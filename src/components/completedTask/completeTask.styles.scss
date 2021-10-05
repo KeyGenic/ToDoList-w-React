@@ -1,0 +1,28 @@
+.completed-task-container{
+    background-color: #14f19d;
+    padding: 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    margin-top: 20px;
+    color: #fff;
+
+    .complete-check{
+        color: #14f19d;
+        float: right;
+        transform: translateY(-1.5rem);
+        -webkit-transform: translateY(-1.5rem);
+        -moz-transform: translateY(-1.5rem);
+        -ms-transform: translateY(-1.5rem);
+        -o-transform: translateY(-1.5rem);
+        background-color: #fff;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+        padding: 5px;
+}
+}
